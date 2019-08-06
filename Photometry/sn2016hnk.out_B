@@ -1,0 +1,40 @@
+SN: sn2016hnk
+Filter: B
+Npoints:            35
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+57690.200   19.003 0.088 -- fl03  -- 2016hnkpaperSUBO
+57690.815   19.014 0.079 -- fl14  -- 2016hnkpaperSUBO
+57692.830   19.054 0.098 -- fl06  -- 2016hnkpaperSUBO
+57694.920   19.197 0.092 -- fl06  -- 2016hnkpaperSUBO
+57695.270   19.296 0.068 -- fl15  -- 2016hnkpaper--  
+57697.205   19.549 0.108 -- FLI   -- 2016hnkpaperDEMONEXT
+57697.435   19.509 0.089 -- fl12  -- 2016hnkpaperSUBO
+57698.175   19.726 0.181 -- FLI   -- 2016hnkpaperDEMONEXT
+57698.755   19.812 0.090 -- fl06  -- 2016hnkpaperSUBO
+57699.000   19.821 0.026 -- fl14  -- 2016hnkpaper--  
+57699.210   19.820 0.093 -- FLI   -- 2016hnkpaperDEMONEXT
+57701.270   20.074 0.100 -- fl04  -- 2016hnkpaperSUBO
+57701.630   20.106 0.026 -- fl11  -- 2016hnkpaper--  
+57702.235   20.089 0.093 -- FLI   -- 2016hnkpaperDEMONEXT
+57702.580   20.158 0.094 -- fl11  -- 2016hnkpaperSUBO
+57702.900   20.228 0.085 -- IO:O  -- 2016hnkpaper--  
+57707.815   20.397 0.030 -- fl06  -- 2016hnkpaper--  
+57711.870   20.476 0.030 -- fl14  -- 2016hnkpaper--  
+57713.160   20.521 0.083 -- fl04  -- 2016hnkpaperSUBO
+57714.505   20.566 0.087 -- fl11  -- 2016hnkpaperSUBO
+57717.175   20.581 0.097 -- fl04  -- 2016hnkpaperSUBO
+57717.850   20.603 0.090 -- fl14  -- 2016hnkpaper--  
+57721.065   20.626 0.028 -- fl15  -- 2016hnkpaper--  
+57726.840   20.704 0.032 -- fl16  -- 2016hnkpaper--  
+57733.885   20.796 0.032 -- fl06  -- 2016hnkpaper--  
+57736.910   20.810 0.034 -- fl16  -- 2016hnkpaper--  
+57741.155   20.845 0.101 -- fl04  -- 2016hnkpaper--  
+57744.930   20.897 0.033 -- fl16  -- 2016hnkpaper--  
+57745.155   20.895 0.043 -- fl03  -- 2016hnkpaper--  
+57746.170   20.911 0.040 -- fl14  -- 2016hnkpaper--  
+57747.105   20.936 0.086 -- fl04  -- 2016hnkpaper--  
+57752.870   20.959 0.096 -- fl06  -- 2016hnkpaper--  
+57755.520   20.957 0.051 -- fl12  -- 2016hnkpaper--  
+57756.155   20.974 0.052 -- fl04  -- 2016hnkpaper--  
+57757.120   20.980 0.099 -- fl03  -- 2016hnkpaper--  
+

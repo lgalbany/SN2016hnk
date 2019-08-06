@@ -1,0 +1,8 @@
+Name: sn2016hnk
+Type: SNIa-91bg
+Zhel:       0.016
+Redshift_error:    0.001
+Ra:        33.31929
+Dec:       -7.66133
+E(B-V)_MW:      0.024
+E(B-V)_MW_Ref: Schlafly & Finkbeiner 2011, Appendix; 2011ApJ...737..103S

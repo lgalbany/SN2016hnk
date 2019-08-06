@@ -1,0 +1,10 @@
+SN: sn2016hnk
+Filter: J-2mass
+Npoints:            5
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+57695.193  16.555 0.139 -- SOFI -- 2016hnkpaper
+57698.163  16.694 0.132 -- SOFI -- 2016hnkpaper
+57705.030  17.059 0.112 -- NOTCAM -- 2016hnkpaper
+57713.220  17.320 0.156 -- SOFI -- 2016hnkpaper
+57722.957  17.658 0.137 -- NOTCAM -- 2016hnkpaper
+57762.930  19.995 0.176 -- NOTCAM -- 2016hnkpaper

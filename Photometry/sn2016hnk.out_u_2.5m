@@ -1,0 +1,10 @@
+SN: sn2016hnk
+Filter: u_2.5m
+Npoints:            6
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+57696.970  18.832  NaN -- fl16  -- 2016hnkpaper
+57697.835  18.957  NaN -- fl06  -- 2016hnkpaper
+57701.785  19.174  NaN -- fl16  -- 2016hnkpaper
+57702.405  19.542  NaN -- fl12  -- 2016hnkpaper
+57710.265  19.462  NaN -- fl03  -- 2016hnkpaper
+57728.055  19.978  NaN -- ALFOSC_FASU  -- 2016hnkpaper
