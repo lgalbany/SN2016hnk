@@ -13,6 +13,6 @@ The paper can be found in:
 
 - ADS at https://ui.adsabs.harvard.edu/abs/2019arXiv190410034G/abstract
 
-<!--- A&A at http://mnras.oxfordjournals.org/content/457/1/525 -->
+- A&A at https://www.aanda.org/articles/aa/abs/2019/10/aa35537-19/aa35537-19.html
 
 Contact: lluisgalbany@gmail.com
