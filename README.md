@@ -1,6 +1,6 @@
 # Optical/NIR spectra and photometry of SN 2016hnk
 
-[![DOI](https://zenodo.org/badge/3738128.svg)](https://zenodo.org/badge/latestdoi/3738128)
+[![DOI](https://zenodo.org/badge/169771645.svg)](https://zenodo.org/badge/latestdoi/169771645)
 [![arXiv:1904.10034](https://img.shields.io/badge/astro--ph.GA-arXiv%3A1904.10034-B31B1B.svg)](https://arxiv.org/abs/1904.10034)
 ![](https://img.shields.io/badge/Updated-April%2020-green.svg)
 
