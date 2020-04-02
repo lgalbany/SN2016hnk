@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/169771645.svg)](https://zenodo.org/badge/latestdoi/169771645)
 [![arXiv:1904.10034](https://img.shields.io/badge/astro--ph.GA-arXiv%3A1904.10034-B31B1B.svg)](https://arxiv.org/abs/1904.10034)
-![](https://img.shields.io/badge/Updated-April%2020-green.svg)
+![](https://img.shields.io/badge/Updated-April%202020-green.svg)
 
 
 ASCII files of all observer-frame and not dereddened spectra of SN 2016nnk can be found in 'Observed' folder. Observer-frame, Milky Way reddeing corrected and mangled to the photometry spectra are in 'Mangled' folder. Photometry in SiFTO and SNooPy formats can be found in the 'Photometry' folder.
